@@ -5,3 +5,5 @@ NPM : 2306152310
 Kelas : PBP E
 
 Hobi: Makan dan tidur
+
+Jurusan: Ilmu Komputer
